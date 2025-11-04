@@ -11,6 +11,7 @@ public class QuickSort {
         }
     }
 
+    
     public static Result sort(int[] input) {
         int[] arr = input.clone();
         long[] steps = {0};
